@@ -1,1 +1,2 @@
-# sid-demo
+# sid-demo 
+This is my firt git repository
